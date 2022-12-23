@@ -10,6 +10,7 @@ public class Main {
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
 
+        System.out.println("Aigerim Aigerim Aigerim Aigerim");
 
         List<Student> studentList = new ArrayList<>();
                studentList.add(new Student("Aigerim", 17, Gender.FEMALE,
